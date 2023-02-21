@@ -1,3 +1,3 @@
 # go-fun
 
-Just trying out golang
+Just trying out the Golang language by building some data structures
